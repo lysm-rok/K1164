@@ -4,4 +4,4 @@ Site static propulsé par [Jekyll](https://jekyllrb.com/), auto-hébergé & auto
 
 ## Contribution
 
-Principalement à travers le dossier [jekyll/_data](./jekyll/_data/)
+Principalement à travers le dossier [_data](./_data/)

@@ -14,7 +14,7 @@ help:
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sed -e 's/Makefile://' -e 's/:/##/g'  | awk 'BEGIN {FS = "##"}; {printf "\033[36m%-30s\033[0m %-30s %s\n", $$1, $$3,$$4}'
 
 
-install: up ## ## Install project from scratch
+install: up assets ## ## Install project from scratch
 
 uninstall: clean ## ## Uninstall project
 	$(docker-compose) down --remove-orphans -v
@@ -34,4 +34,6 @@ jekyll: ## [CMD=] ## Launch console command
 	$(jekyll) ${CMD}
 
 clean: ## ## Remove project dependencies
-	rm -rf jekyll/_site/
+	rm -rf _site/
+
+assets: ## ## Generate assets
