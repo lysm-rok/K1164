@@ -1,6 +1,11 @@
 url: https://L0rD59.github.io/K1164
 baseurl:
 
+exclude:
+  - docker/
+  - Makefile
+  - README.md
+
 # Site settings
 title: "ROK : Kingdom 1164"
 email: K1164@gmail.com
