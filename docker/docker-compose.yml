@@ -1,0 +1,10 @@
+version: "3.6"
+
+services:
+  jekyll:
+    image: "jekyll/jekyll:3.7"
+    command: "jekyll serve"
+    volumes:
+      - ../:/srv/jekyll
+    ports:
+      - 4000

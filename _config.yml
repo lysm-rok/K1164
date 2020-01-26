@@ -1,0 +1,54 @@
+url: https://L0rD59.github.io/K1164
+baseurl:
+
+# Site settings
+title: "ROK : Kingdom 1164"
+email: your-email@domain.com
+description: "ROK : Kingdom 1164"
+
+# Header
+intro:
+  lead-in : ""
+  heading : ""
+
+# Team names, titles and social links
+people:
+- name: Suri
+  pic: 2
+  position: King
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: discord
+      url: #
+
+- name: HarryaFlo
+  pic: 3
+  position: Queen
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: discord
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url:
+  - title: facebook
+    url:
+  - title: discord
+    url:
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
