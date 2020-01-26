@@ -3,8 +3,8 @@ baseurl:
 
 # Site settings
 title: "ROK : Kingdom 1164"
-email: your-email@domain.com
-description: "ROK : Kingdom 1164"
+email: K1164@gmail.com
+description: "Rise Of Kingdoms: Kingdom 1164"
 
 # Header
 intro:
@@ -18,36 +18,25 @@ people:
   position: King
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/riseofkingdoms?lang=fr
     - title: facebook
-      url: #
-    - title: discord
-      url: #
+      url: https://www.facebook.com/riseofkingdomsgame/
 
 - name: HarryaFlo
   pic: 3
   position: Queen
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/riseofkingdoms?lang=fr
     - title: facebook
-      url: #
-    - title: discord
-      url: #
+      url: https://www.facebook.com/riseofkingdomsgame/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url:
+    url: https://twitter.com/riseofkingdoms?lang=fr
   - title: facebook
-    url:
-  - title: discord
-    url:
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+    url: https://www.facebook.com/riseofkingdomsgame/
 
 # Build settings
 markdown: kramdown
