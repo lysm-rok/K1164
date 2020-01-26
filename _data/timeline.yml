@@ -1,0 +1,19 @@
+- name: Our Humble Beginnings
+  date: 2009-2011
+  image: img/about/1.jpg
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+
+- name: An Agency is Born
+  date: March 2011
+  image: img/about/2.jpg
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+
+- name: Transition to Full Service
+  date: December 2012
+  image: img/about/3.jpg
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+
+- name: Phase Two Expansion
+  date: July 2014
+  image: img/about/4.jpg
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."

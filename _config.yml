@@ -11,25 +11,6 @@ intro:
   lead-in : ""
   heading : ""
 
-# Team names, titles and social links
-people:
-- name: Suri
-  pic: 2
-  position: King
-  social:
-    - title: twitter
-      url: https://twitter.com/riseofkingdoms?lang=fr
-    - title: facebook
-      url: https://www.facebook.com/riseofkingdomsgame/
-
-- name: HarryaFlo
-  pic: 3
-  position: Queen
-  social:
-    - title: twitter
-      url: https://twitter.com/riseofkingdoms?lang=fr
-    - title: facebook
-      url: https://www.facebook.com/riseofkingdomsgame/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

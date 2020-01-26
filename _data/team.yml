@@ -1,0 +1,35 @@
+- name: Suri
+  pic: 2
+  position: King
+  social:
+    - title: twitter
+      url: https://twitter.com/riseofkingdoms?lang=fr
+    - title: facebook
+      url: https://www.facebook.com/riseofkingdomsgame/
+
+- name: HarryaFlo
+  pic: 3
+  position: Queen
+  social:
+    - title: twitter
+      url: https://twitter.com/riseofkingdoms?lang=fr
+    - title: facebook
+      url: https://www.facebook.com/riseofkingdomsgame/
+
+- name: AlexMaroufleur
+  pic: 2
+  position: Recruitment
+  social:
+    - title: twitter
+      url: https://twitter.com/riseofkingdoms?lang=fr
+    - title: facebook
+      url: https://www.facebook.com/riseofkingdomsgame/
+
+- name: Eskaliburr
+  pic: 2
+  position: Recruitment
+  social:
+    - title: twitter
+      url: https://twitter.com/riseofkingdoms?lang=fr
+    - title: facebook
+      url: https://www.facebook.com/riseofkingdomsgame/
