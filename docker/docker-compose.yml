@@ -3,8 +3,8 @@ version: "3.6"
 services:
   jekyll:
     image: "jekyll/jekyll:3.7"
-    command: "jekyll serve"
+    command: "jekyll serve --livereload --watch"
     volumes:
-      - ../:/srv/jekyll
+      - ../jekyll:/srv/jekyll
     ports:
       - 4000
