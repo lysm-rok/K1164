@@ -1,13 +1,13 @@
 - name: "[NH] New Horizon"
-  icon: NH
+  icon: img/alliances/NH.jpg
   description: "Internatinal alliance (french, brazilian, spanish, US, korean, Canadian). All range of power but only very active players. Sub alliance : FG"
 
 - name: "[RS] Aogirii No Tree"
-  icon: RS
+  icon: img/alliances/RS.jpg
   description: "Mainly hispanic players coming from a younger kindom in civil war; growing in peace on 1164, and fighting on Lost Kingdom!"
 
 - name: "[FR] Ligue de France"
-  icon: FR
+  icon: img/alliances/FR.jpg
   description: "Mainly French players coming from a younger kingdom; growing in peace on 1164"
 
 - name: "[BH]"
