@@ -40,7 +40,7 @@
 
 
 - category: Matchmaking / KVK advices
-  pic: img/rules/lost.jpg
+  pic: img/rules/lost.png
   rules:
     - nb: 12
       desc: "don’t use too many speedups to create troops before KVK (it makes your power higher, so our matchmaking note). Keep speedups to heal instead (less expensive in speedups and resources)."
