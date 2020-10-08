@@ -11,7 +11,7 @@
                 {% for alliance in site.data.alliances %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/alliances/{{ alliance.icon }}.jpg" class="img-responsive img-circle" alt="">
+                        <img src="{{ alliance.icon }}" class="img-responsive img-circle" alt="">
                         <h4>{{ alliance.name }}</h4>
                         <p class="text-muted">{{ alliance.description }}</p>
                     </div>
