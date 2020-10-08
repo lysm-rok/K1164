@@ -14,6 +14,7 @@
                         <li class="{% cycle '', 'timeline-inverted' %}">
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="{{ category.pic }}" alt="">
+                                <h4>#{{ category.category }} </h4>
                             </div>
                             {% for rule in category.rules %}
                               <div class="timeline-panel">
