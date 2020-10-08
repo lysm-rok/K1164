@@ -1,0 +1,11 @@
+- name: "Your are alone"
+  icon: img/recruitment/alone.png
+  description: "Choose the alliance you wish to go and contact them directly :)"
+
+- name: "You are a group"
+  icon: img/recruitment/group.png
+  description: "Depending on your number, you will be integrated in the best alliance, or you may have yours. Contact lysm or johndenar"
+
+- name: "You are a full alliance"
+  icon: img/recruitment/alliance.png
+  description: "We have shell for you, contact lysm or johndenar"
