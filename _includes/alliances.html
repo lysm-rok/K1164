@@ -7,21 +7,7 @@
                     <h3 class="section-subheading text-muted">Leaders of each main alliances take all kingdom decisions within our kingdom cuncil.</h3>
                 </div>
             </div>
-<!--            <div class="row text-center">
-                {% for alliance in site.data.alliances %}
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa {{ alliance.icon }} fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">{{ alliance.name }}</h4>
-                    <p class="text-muted">{{ alliance.description }}</p>
-                </div>
-                {% endfor %}
-            </div>
-    -->        
             <div class="row">
-<!--                {% for member in site.data.team %} -->
                 {% for alliance in site.data.alliances %}
                 <div class="col-sm-4">
                     <div class="team-member">
@@ -32,7 +18,6 @@
                 </div>
                 {% endfor %}
             </div>
-            
-            
+           
         </div>
     </section>
