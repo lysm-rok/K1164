@@ -10,10 +10,6 @@
   icon: img/alliances/FR.jpg
   description: "Mainly French players coming from a younger kingdom; growing in peace on 1164"
 
-- name: "[BH]"
-  icon: lock
-  description: "Shell alliance / For sale ! "
-
 - name: "Farms"
   icon: img/alliances/farm.jpg
   description: "Choose your farm .. PIG, NF, NF~, VOLT... "
