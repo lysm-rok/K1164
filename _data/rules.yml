@@ -23,7 +23,7 @@
       desc: "Do not target top ranks if you will migrate soon or if you are not very active anymore"
 
 - category: Rewards
-  pic: 2
+  pic: img/rules/trophy.jpg
   rules:
     - nb: 8
       desc: "Notice your R4 when you max a legendary commander (you will get a trophy ;))"
@@ -31,7 +31,7 @@
       desc: "Be a trustful fighters to be part of predefined MGE"
 
 - category: Baulur and donjon
-  pic: 2
+  pic: img/rules/donjon.png
   rules:
     - nb: 10
       desc: "Notice others before to kill baulur and donjon, plan it to an appropriate time"
@@ -40,7 +40,7 @@
 
 
 - category: Matchmaking / KVK advices
-  pic: 2
+  pic: img/rules/lost.jpg
   rules:
     - nb: 12
       desc: "don’t use too many speedups to create troops before KVK (it makes your power higher, so our matchmaking note). Keep speedups to heal instead (less expensive in speedups and resources)."
