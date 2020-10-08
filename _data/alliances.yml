@@ -1,11 +1,19 @@
-- name: New Horizon
+- name: [NH] New Horizon
   icon: shopping-cart
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+  description: "Internatinal alliance (french, brazilian, spanish, US, korean, Canadian). All range of power but only very active players. Sub alliance : FG"
 
-- name: RS
+- name: [RS] Aogirii No Tree
   icon: laptop
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+  description: "Mainly hispanic players coming from a younger kindom in civil war; growing in peace on 1164, and fighting on Lost Kingdom!"
 
-- name: Ligue FR
+- name: [FR] Ligue de France
   icon: lock
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+  description: "Mainly French players coming from a younger kingdom; growing in peace on 1164"
+
+- name: [BH]
+  icon: lock
+  description: "Shell alliance / For sale ! "
+
+- name: Farms
+  icon: lock
+  description: "Choose your farm .. PIG, NF, NF~, VOLT... "
