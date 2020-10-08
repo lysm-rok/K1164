@@ -18,13 +18,15 @@
                             <div class="timeline-heading">
                                 <h4>{{ category.category }} </h4>
                             </div>
-                            {% for rule in category.rules %}
+
                               <div class="timeline-panel">
                                   <div class="timeline-body">
+                                  {% for rule in category.rules %}
                                      <p class="text-muted">#{{ rule.nb }}: {{ rule.desc }}</p>
+                                   {% endfor %}
                                   </div>
                               </div>
-                            {% endfor %}
+
                         </li>
                         {% endfor %}
 
