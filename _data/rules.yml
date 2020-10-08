@@ -1,5 +1,5 @@
 - category: Communication
-  pic: 2
+  pic: img/rules/communiction.png
   rules:
     - nb: 1
       desc: "Read mails and markers"
