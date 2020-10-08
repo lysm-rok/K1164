@@ -44,14 +44,7 @@
   rules:
     - nb: 12
       desc: "don’t use too many speedups to create troops before KVK (it makes your power higher, so our matchmaking note). Keep speedups to heal instead (less expensive in speedups and resources)."
-    - nb: 12'
-      desc: "be ready for KVK with 100 days of speedups and 1B of each ressources for healing"
     - nb: 13
-      desc: "Kill your T4 T5 sieges when you have a chance, if you have too many of them (>300k) and use t1 siege to farm (it will decrease our matchmaking note)"
-    - nb: 14
-      desc: "If you cannot play for a long time, stop the game completely. Your city will disappear of the map after 22 days, so as your power during the KVK matchmaking. We can notice you on discord when matchmaking will be over."
-    - nb: 15
-      desc: "If you do not, or cannot fight, limit your power (<60M) and share your resources with others"
-      
+      desc: "Kill your T4 T5 sieges when you have a chance, if you have too many of them (>300k) and use t1 siege to farm (it will decrease our matchmaking note)"      
       
        
