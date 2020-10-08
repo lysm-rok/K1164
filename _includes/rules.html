@@ -1,0 +1,42 @@
+<!-- Rules Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Rules</h2>
+                    <h3 class="section-subheading text-muted">Simple rules make a peaceful kingdom </h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        {% for category in site.data.rules %}
+                        <li class="{% cycle '', 'timeline-inverted' %}">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="{{ category.pic }}" alt="">
+                            </div>
+                            {% for rule in category %}
+                              <div class="timeline-panel">
+                                  <div class="timeline-heading">
+                                      <h4>#{{ rule.nb }} </h4>
+                                  </div>
+                                  <div class="timeline-body">
+                                     <p class="text-muted">{{ rule.desc }}</p>
+                                  </div>
+                              </div>
+                            {% endfor %}
+                        </li>
+                        {% endfor %}
+
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>
+                                    <br>Please
+                                    <br>respect!</h4>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
