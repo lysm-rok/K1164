@@ -15,14 +15,14 @@
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="{{ category.pic }}" alt="">
                             </div>
-                            <div class="timeline-heading">
-                                <h4>{{ category.category }} </h4>
-                            </div>
 
                               <div class="timeline-panel">
-                                  <div class="timeline-body">
+                                <div class="timeline-heading">
+                                    <h4>{{ category.category }} </h4>
+                                </div>
+                                <div class="timeline-body">
                                   {% for rule in category.rules %}
-                                     <p class="text-muted">#{{ rule.nb }}: {{ rule.desc }}</p>
+                                      <p class="text-muted"><b>#{{ rule.nb }}:</b> {{ rule.desc }}</p>
                                    {% endfor %}
                                   </div>
                               </div>
