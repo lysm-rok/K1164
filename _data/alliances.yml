@@ -1,19 +1,19 @@
-- name: [NH] New Horizon
+- name: "[NH] New Horizon"
   icon: shopping-cart
   description: "Internatinal alliance (french, brazilian, spanish, US, korean, Canadian). All range of power but only very active players. Sub alliance : FG"
 
-- name: [RS] Aogirii No Tree
+- name: "[RS] Aogirii No Tree"
   icon: laptop
   description: "Mainly hispanic players coming from a younger kindom in civil war; growing in peace on 1164, and fighting on Lost Kingdom!"
 
-- name: [FR] Ligue de France
+- name: "[FR] Ligue de France"
   icon: lock
   description: "Mainly French players coming from a younger kingdom; growing in peace on 1164"
 
-- name: [BH]
+- name: "[BH]"
   icon: lock
   description: "Shell alliance / For sale ! "
 
-- name: Farms
+- name: "Farms"
   icon: lock
   description: "Choose your farm .. PIG, NF, NF~, VOLT... "
