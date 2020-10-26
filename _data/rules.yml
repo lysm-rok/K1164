@@ -6,7 +6,7 @@
     - nb: 2
       desc: "Be respectful of each other"
     - nb: 3
-      desc: "No drama on public chats; resolve problem within personal messages, or ask R4 to help"
+      desc: "No drama on public chats. Problems should be dealt with in private messages, or ask R4 to help"
     - nb: 4
       desc: "Use 1164 discord for Ark of Osiris and war"
     - nb: 5
@@ -18,7 +18,7 @@
     - nb: 6
       desc: "Do not kill T1 (no matter what)"
     - nb: 7
-      desc: "Do not target top ranks of events with your farm account (seriously, you don’t need legendary commanders to farm)"
+      desc: "Do not target top ranks of events with your farm accounts (seriously, you don’t need legendary commanders to farm)"
     - nb: 7'
       desc: "Do not target top ranks if you will migrate soon or if you are not very active anymore"
 
@@ -26,17 +26,17 @@
   pic: img/rules/trophy.jpg
   rules:
     - nb: 8
-      desc: "Notice your R4 when you max a legendary commander (you will get a trophy ;))"
+      desc: "Notify an officer when you max a legendary commander (you will get a trophy ;))"
     - nb: 9
-      desc: "Be a trustful fighters to be part of predefined MGE"
+      desc: "Be an active and helpful fighter to be part of predefined MGE"
 
 - category: Baulur and donjon
   pic: img/rules/donjon.png
   rules:
     - nb: 10
-      desc: "Notice others before to kill baulur and donjon, plan it to an appropriate time"
+      desc: "Send a message in alliance chat before you kill Baulurs. Barbarian Keeps will be attacked on times defined by officers, to maximise the number of participants."
     - nb: 11
-      desc: "Wait before to get baulur and donjon bundles. Share them equitably"
+      desc: "Wait before you pick up Keep rewards. Share them equitably"
 
 
 - category: Matchmaking / KVK advices
@@ -45,6 +45,6 @@
     - nb: 12
       desc: "don’t use too many speedups to create troops before KVK (it makes your power higher, so our matchmaking note). Keep speedups to heal instead (less expensive in speedups and resources)."
     - nb: 13
-      desc: "Kill your T4 T5 sieges when you have a chance, if you have too many of them (>300k) and use t1 siege to farm (it will decrease our matchmaking note)"      
+      desc: "Kill your T4 T5 sieges when you have a chance if you have too many of them (>300k) and use t1 siege to farm (it will decrease our matchmaking note)"      
       
        
